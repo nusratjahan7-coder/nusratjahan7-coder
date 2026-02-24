@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Nusrat Jahan</h1>
-<h3 align="center">CSE Student | Competitive Programmer | Future Tech Builder</h3>
+<h3 align="center">CSE Student | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programming+Journey;DSA+Focused;AI+Curious+Mind;Building+Strong+Foundations&center=true&width=500&height=50">
@@ -11,7 +11,6 @@
 
 - 🎓 CSE Student 
 - 🧩 Passionate about Data Structures & Algorithms
-- 💻 Actively practicing Competitive Programming
 - 🚀 Focused on building strong core fundamentals
 
 ---
@@ -20,8 +19,6 @@
 
 - 📌 Problem Solving (Codeforces / Online Judges)
 - 📚 DSA Deep Practice
-- 🏗 Understanding how systems work
-- 🔍 Writing clean and optimized code
 
 ---
 
@@ -54,6 +51,3 @@ Become a strong Software Engineer
 
 ---
 
-<p align="center">
-  💡 Consistency > Motivation
-</p>
