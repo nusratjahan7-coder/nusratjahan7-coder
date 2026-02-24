@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 CSE Student at CUET
+- 🎓 CSE Student 
 - 🧩 Passionate about Data Structures & Algorithms
 - 💻 Actively practicing Competitive Programming
 - 🚀 Focused on building strong core fundamentals
